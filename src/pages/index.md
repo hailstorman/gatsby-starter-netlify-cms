@@ -5,12 +5,12 @@ image: /img/startscreen_elbannerimage_594666.jpg
 heading: Great coffee with a conscience2
 subheading: Stories for Bedtime
 mainpitch:
-  title: Why Kaldi
+  title: What is Teddy Story?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Teddy Story is a collection of stories inspired by bedtime stories that I've
+    told over the years.  The Teddys in those stories started out as small
+    ceramic unicorns, evolving over time into a complex series of interwoven
+    stories about the adventures of the audience, and their Teddy companions.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
