@@ -7,10 +7,14 @@ subheading: Stories for Bedtime
 mainpitch:
   title: What is Teddy Story?
   description: >
-    Teddy Story is a collection of stories inspired by bedtime stories that I've
-    told over the years.  The Teddys in those stories started out as small
-    ceramic unicorns, evolving over time into a complex series of interwoven
-    stories about the adventures of the audience, and their Teddy companions.
+    Teddy Story is a collection of stories about the adventures of teddies and
+    their owners.
+
+
+    The teddies in the stories aren’t just teddy bears, they are friends and companions of all shapes and sizes, almost anything can qualify as a teddy.
+
+
+    Their stories are short, but spread all over time and space.  We hope you enjoy them.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
