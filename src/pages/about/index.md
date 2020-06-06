@@ -1,6 +1,7 @@
 ---
 templateKey: about-page
 path: /about
+image: /img/startscreen_elbannerimage_594666.jpg
 title: About Teddy Story
 ---
 Over the years I’ve told many stories to kids, these are based on them.
