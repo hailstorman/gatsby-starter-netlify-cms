@@ -2,7 +2,7 @@
 templateKey: about-page
 path: /about
 title: About Teddy Story
-image: /img/home-jumbotron.jpg
+image: /img/teddy_story_banner.jpg
 ---
 Over the years I’ve told many stories to kids, these are based on them.
 
